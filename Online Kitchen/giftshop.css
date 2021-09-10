@@ -1,0 +1,55 @@
+<style>
+
+	h1 {
+		font-family:Lobster;
+		color:brown;
+	}
+
+	h2 {
+		font-family: Lobster;
+		color: Rainbow;
+	}
+
+	h3 {
+		font-family: Papyrus;
+		color: brown;
+	}
+
+	p {
+		font-family: Papyrus;
+		font-size: 18px;
+		padding: 35px;
+		background-color: rgba(255, 155, 0, 0.8);
+	}
+
+
+	.imagestyle {
+		border-style: solid;
+		border-radius: 35px;
+		border-color: brown;
+	}
+
+	#featured-recipes {
+		background-color: #f7b102;
+		padding-left: 70px;
+		padding-right: 70px;
+		margin-right:40px;
+		margin-left: 40px;
+		border-radius: 25px;
+		text-align: left;
+		font-family: Lobster;
+	}
+
+	#heading1 {
+		text-align: center;
+		background-color: orange; 
+		margin-right:40px;
+		margin-left: 40px;
+		border-radius: 78px;
+	}
+
+	#body-div1 {
+		text-align: center;
+	}
+
+</style>
